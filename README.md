@@ -70,4 +70,4 @@ Durante os estudos de infraestrutura como código, também é importante compree
 
 Neste projeto, foi utilizado o **AWS CloudFormation**, por ser o serviço abordado na prática e possuir integração nativa com os recursos utilizados na AWS.
 
-Desenvolvido durante os estudos de Cloud Computing 🚀
+---
