@@ -66,6 +66,8 @@ Durante os estudos de infraestrutura como código, também é importante compree
 | Utiliza templates em YAML ou JSON | Utiliza principalmente a linguagem HCL |
 | Gerencia recursos através de stacks | Gerencia a infraestrutura através de configurações e state |
 
+---
+
 Neste projeto, foi utilizado o **AWS CloudFormation**, por ser o serviço abordado na prática e possuir integração nativa com os recursos utilizados na AWS.
 
 Desenvolvido durante os estudos de Cloud Computing 🚀
