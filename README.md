@@ -55,4 +55,17 @@ Também foi possível explorar o uso de templates YAML e do AWS Infrastructure C
 
 ---
 
+## 🔍 CloudFormation x Terraform
+
+Durante os estudos de infraestrutura como código, também é importante compreender que existem diferentes ferramentas para automatizar o provisionamento de recursos.
+
+| AWS CloudFormation | Terraform |
+|---|---|
+| Serviço nativo da AWS | Ferramenta de código aberto da HashiCorp |
+| Integração direta com os serviços AWS | Suporta múltiplos provedores de nuvem |
+| Utiliza templates em YAML ou JSON | Utiliza principalmente a linguagem HCL |
+| Gerencia recursos através de stacks | Gerencia a infraestrutura através de configurações e state |
+
+Neste projeto, foi utilizado o **AWS CloudFormation**, por ser o serviço abordado na prática e possuir integração nativa com os recursos utilizados na AWS.
+
 Desenvolvido durante os estudos de Cloud Computing 🚀
